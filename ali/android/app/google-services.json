@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "557749805018",
+    "project_id": "fir-example-c27b0",
+    "storage_bucket": "fir-example-c27b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557749805018:android:6372b1ebe4844da6316ae3",
+        "android_client_info": {
+          "package_name": "com.nafaa.ali"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557749805018-3rp3t5kvcg7rp3picqn9h933jar8tb83.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdLz8Snzwwu3yjGfQuigWEWxRIlyHXN8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557749805018-3rp3t5kvcg7rp3picqn9h933jar8tb83.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
